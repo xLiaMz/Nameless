@@ -25,11 +25,6 @@ namespace workexperience
     {      
         static void Main(string[] args)
         {
-
-           // Movie Movie1 = new Movie("James Bond: Spectre (1)", new string[4] {  "12:00, ", "14:00, ", "17:00, ", "20:00" });
-           // Movie Movie2 = new Movie("Star Wars: VII (2)", new string[4] { "11:00, ", "13:00, ", "16:00, ", "19:00" });
-           // Movie Movie3 = new Movie("Hunger Games: Mocking Jay II (3)", new string[4] { "13:00, ", "15:00, ", "19:00, ", "22:00" });
-
             Movie[] movieDatabase = new Movie[10]{
                 new Movie("James Bond: Spectre (1) ", new string[4] { "12:00, ", "14:00, ", "17:00, ", "20:00" }),
                 new Movie("Star Wars: VII (2) ", new string[4] { "11:00, ", "13:00, ", "16:00, ", "19:00" }),
