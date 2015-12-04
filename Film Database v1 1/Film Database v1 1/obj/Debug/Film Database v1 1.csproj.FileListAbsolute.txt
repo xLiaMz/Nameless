@@ -1,0 +1,6 @@
+D:\Main Files\Coding\Programs\Nameless\Film Database v1 1\Film Database v1 1\bin\Debug\Film Database v1 1.exe.config
+D:\Main Files\Coding\Programs\Nameless\Film Database v1 1\Film Database v1 1\bin\Debug\Film Database v1 1.exe
+D:\Main Files\Coding\Programs\Nameless\Film Database v1 1\Film Database v1 1\bin\Debug\Film Database v1 1.pdb
+D:\Main Files\Coding\Programs\Nameless\Film Database v1 1\Film Database v1 1\obj\Debug\Film Database v1 1.csprojResolveAssemblyReference.cache
+D:\Main Files\Coding\Programs\Nameless\Film Database v1 1\Film Database v1 1\obj\Debug\Film Database v1 1.exe
+D:\Main Files\Coding\Programs\Nameless\Film Database v1 1\Film Database v1 1\obj\Debug\Film Database v1 1.pdb

@@ -22,7 +22,7 @@ namespace workexperience
     }
 
     class Program
-    {      
+    {
         static void Main(string[] args)
         {
             Movie[] movieDatabase = new Movie[10]{
@@ -38,7 +38,7 @@ namespace workexperience
                 new Movie("Home (10) ", new string[4] {"13:00, ", "15:00, ", "19:00, ", "22:00"})
 
             };
-            
+
             Console.WriteLine("Please select a movie - Out of 1, 2 and 3 ");
             for (int i = 0; i < movieDatabase.Length; i++)
             {
@@ -47,7 +47,7 @@ namespace workexperience
 
             while (true)
             {
-                int choice = int.Parse(Console.ReadLine()) -1;
+                int choice = int.Parse(Console.ReadLine()) - 1;
                 Console.WriteLine(movieDatabase[choice].name + movieDatabase[choice].GetTimes());
             }
         }

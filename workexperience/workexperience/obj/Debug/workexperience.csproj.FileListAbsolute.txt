@@ -1,6 +1,0 @@
-c:\users\thyminx\documents\visual studio 2013\Projects\workexperience\workexperience\bin\Debug\workexperience.exe.config
-c:\users\thyminx\documents\visual studio 2013\Projects\workexperience\workexperience\bin\Debug\workexperience.exe
-c:\users\thyminx\documents\visual studio 2013\Projects\workexperience\workexperience\bin\Debug\workexperience.pdb
-c:\users\thyminx\documents\visual studio 2013\Projects\workexperience\workexperience\obj\Debug\workexperience.csprojResolveAssemblyReference.cache
-c:\users\thyminx\documents\visual studio 2013\Projects\workexperience\workexperience\obj\Debug\workexperience.exe
-c:\users\thyminx\documents\visual studio 2013\Projects\workexperience\workexperience\obj\Debug\workexperience.pdb
